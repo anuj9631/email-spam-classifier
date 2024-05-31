@@ -28,6 +28,9 @@ Usage
 HomePage: Enter the email text and classify it to see if it's spam.
 DataInsight: View detailed insights and visualizations based on the email content.
 Bulk Email Classifier: Upload a CSV file containing multiple emails for bulk classification.
-![em-1](https://github.com/anuj963![em-3](https://github.com/anuj9631/email-spam-classifier/assets/124524155/3b427f9b-0b94-415d-b2ea-2ec44b3f0005)
-1/email-spam-classifier/assets/124524155/28b184a7-62ca-4883-ac00-867b0ce3c52b)
+
+![em-1](https://github.com/anuj9631/email-spam-classifier/assets/124524155/7530dcbd-5495-41a3-bd2b-e12ec33ea35c)
+
+![em-2](https://github.com/anuj9631/email-spam-classifier/assets/124524155/6051304b-4a25-4a9f-ad7d-2bdb48bed67d)
+
 ![em-2](https://github.com/anuj9631/email-spam-classifier/assets/124524155/e93d7f7b-664c-4ec4-9716-f4f5f2f74a17)
