@@ -33,4 +33,4 @@ Bulk Email Classifier: Upload a CSV file containing multiple emails for bulk cla
 
 ![em-2](https://github.com/anuj9631/email-spam-classifier/assets/124524155/6051304b-4a25-4a9f-ad7d-2bdb48bed67d)
 
-![em-3](https://github.com/anuj9631/email-spam-classifier/assets/124524155/e93d7f7b-664c-4ec4-9716-f4f5f2f74a17)
+
