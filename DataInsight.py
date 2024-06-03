@@ -3,6 +3,9 @@ import matplotlib.patches as patches
 from wordcloud import WordCloud
 import streamlit as st
 import joblib
+st.set_page_config(
+    page_title="DataInsight",
+)
 
 def app(input_text):
 
