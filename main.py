@@ -3,9 +3,7 @@ from streamlit_option_menu import option_menu
 import Homepage, About, Bulk_Email_Classifier, DataInsight
 
 
-st.set_page_config(
-    page_title="Homepage",
-)
+
 
 class MultiApp:
     def __init__(self):
